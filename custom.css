@@ -1,0 +1,43 @@
+.top .logo img {
+    width: 100%;
+    display: inline-block;
+}
+.top .logo {
+    width: 290px;
+    padding-top: 50px;
+}
+.item.social {
+	color: white;
+	padding: 6px 0 0;
+}
+.item.social:not(:last-child) {
+	padding-right: 6px
+}
+.slider-home {
+	height: 490px
+}
+body.home .grid3.prod a.text p {
+	line-height: initial
+}
+body.home .grid3 figure a {
+	max-height: 160px;
+	object-fit: cover;
+}
+footer.baseboard .copyright p {
+	width: initial
+}
+footer.baseboard .copyright p {
+	display: block;
+	width: 100%;
+	text-align: center
+}
+.area-apresentacao-cotacao {
+	width: 100%!important;
+	margin-top: 15px
+}
+footer .menu {
+	text-transform: uppercase
+}
+p iframe {
+	border: 0;
+}
